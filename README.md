@@ -1,18 +1,13 @@
 # tako_voice
 
-Reference : 
+>Reference : 
+>>[토크ON세미나] 딥러닝 기반 음성합성(1)
 
-[토크ON세미나] 딥러닝 기반 음성합성(1)
-
-Tools :
-
-https://github.com/Tyrrrz/YoutubeDownloader
+>Tools :
+>>https://github.com/Tyrrrz/YoutubeDownloader
 
 
-Process :
+>Process :
+>>타겟 동영상 다운로드
+>>영상에서 목소리가 있는 부분만을 추출
 
-Noise Cancellation
-
--> Background noise 제거
-
--> 영상에서 목소리가 있는 부분만을 추출
