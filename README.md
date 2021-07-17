@@ -1,4 +1,4 @@
-# tako_voice
+# Tako_voice
 
 >Reference : 
 >>[토크ON세미나] 딥러닝 기반 음성합성(1)
